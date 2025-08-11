@@ -56,7 +56,7 @@ El proceso consistió en:
 
 ![Imagen EDA2](https://raw.githubusercontent.com/EuniceGarcia503/Challenge2_TelecomX_LATAM/refs/heads/main/Imagenes_TELECOMX_LATAM/an%C3%A1lisis%20decriptivo_readme.png)
 
-![Imagen EDA3]()
+![Imagen EDA3](https://raw.githubusercontent.com/EuniceGarcia503/Challenge2_TelecomX_LATAM/refs/heads/main/Imagenes_TELECOMX_LATAM/2%20an%C3%A1lisis%20decriptivo_readme.png)
 
 🟢 Informe Final. Que contiende el resumen de hallazgos, el patrón general y la recomendación de uso.
 
