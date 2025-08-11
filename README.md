@@ -40,9 +40,7 @@ El proceso consistió en:
 
 🟢 Extracción de datos.
   
-![Imagen_extracción1]()
-
-![Imagen extracción2]()
+![Imagen_extracción1](https://raw.githubusercontent.com/EuniceGarcia503/Challenge2_TelecomX_LATAM/refs/heads/main/Imagenes_TELECOMX_LATAM/extracci%C3%B3n%20de%20datos_readme.png)
 
 🟢 Transformación de Datos.
 
