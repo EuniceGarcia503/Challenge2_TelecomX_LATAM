@@ -34,31 +34,37 @@ El proceso consistió en:
 
 ## 🖥️ Preview del Notebook.
 
-🟢 El contenido del notebook está dividido en 6 secciones en total que pueden accederse desde un índice:
+🟢 El contenido del notebook está dividido en 4 secciones en total que pueden accederse desde un índice:
 
 ![Imagen_indice]()
 
-🟢 Importación y exploración de datos.
+🟢 Extracción de datos.
   
-![Imagen_base1]()
+![Imagen_extracción1]()
 
-![Imagen base2]()
+![Imagen extracción2]()
 
-🟢 Cálculos solicitados, complementarios y exploratorios.
+🟢 Transformación de Datos.
 
-![Imagen_calculos]()
+![Imagen_transformación1]()
 
-![Imagen calculos2]()
+![Imagen transformación2]()
 
-🟢 Informe análisis de rendimiento.
+🟢 Análisis Exploratorio de los Datos (EDA).
 
-![Imagen informe]()
+![Imagen EDA1]()
+
+![Imagen EDA2]()
+
+![Imagen EDA3]()
+
+🟢 Informe Final.
+
+![Imagen informe1]()
 
 ![Imagen informe2]()
 
-🟢 Gráficos. A los cuales se accede desde el índice en la sección del informe.
-
-![Imagen graficos]()
+![Imagen informe3]()
 
 
 ---
@@ -95,7 +101,7 @@ Haz clic en el siguiente botón para abrir directamente el notebook:
 
 **Loida Eunice García Dimas.**  
 Alumna del programa **Oracle Next Education** de **Alura Latam.**  
-Inscrita en el curso **Modelado de Datos con Python G8-ONE.**  
+Inscrita en el curso **Aprendiendo a hacer ETL con Python G8-ONE.**  
 
 ## 📜 Licencia.  
 Este proyecto es de **propiedad exclusiva de Loida Eunice García Dimas**.  
