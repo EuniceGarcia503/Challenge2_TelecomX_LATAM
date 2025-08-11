@@ -50,7 +50,7 @@ El proceso consistió en:
 
 ![Imagen transformación2]()
 
-🟢 Análisis Exploratorio de los Datos (EDA).
+🟢 Carga y Análisis. Que contiende el Análisis Exploratorio de los Datos (EDA).
 
 ![Imagen EDA1]()
 
@@ -58,7 +58,7 @@ El proceso consistió en:
 
 ![Imagen EDA3]()
 
-🟢 Informe Final.
+🟢 Informe Final. Que contiende el resumen de hallazgos, el patrón general y la recomendación de uso.
 
 ![Imagen informe1]()
 
