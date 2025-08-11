@@ -44,9 +44,7 @@ El proceso consistió en:
 
 🟢 Transformación de Datos.
 
-![Imagen_transformación1]()
-
-![Imagen transformación2]()
+![Imagen_transformación1](https://raw.githubusercontent.com/EuniceGarcia503/Challenge2_TelecomX_LATAM/refs/heads/main/Imagenes_TELECOMX_LATAM/transformaci%C3%B3n%20de%20datos%20_readme.png)
 
 🟢 Carga y Análisis. Que contiende el Análisis Exploratorio de los Datos (EDA).
 
