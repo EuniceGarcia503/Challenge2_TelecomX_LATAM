@@ -1,7 +1,7 @@
 ---
 # 📒 CHALLENGE : Telcom X LATAM - Análisis de Evasión de Clientes.
 
-![Banner del proyecto]()
+![Banner del proyecto](https://raw.githubusercontent.com/EuniceGarcia503/Challenge2_TelecomX_LATAM/refs/heads/main/Imagenes_TELECOMX_LATAM/banner1TelecomX_readme.png)
 ---
 ## 🚧 Estado del Challenge. 
 **En construcción.**  
