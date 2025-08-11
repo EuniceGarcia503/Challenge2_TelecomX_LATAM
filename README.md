@@ -84,8 +84,7 @@ El proceso consistió en:
 
 Haz clic en el siguiente botón para abrir directamente el notebook:
 
-[![▶️Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/EuniceGarcia503/Challenge1_AluraStore/blob/main/AluraStoreLatam.ipynb)
-
+[![▶️Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/EuniceGarcia503/Challenge2_TelecomX_LATAM/blob/main/TelecomX_LATAM.ipynb)
 
 ## 👩‍💻 Desarrollador del Challenge.  
 
