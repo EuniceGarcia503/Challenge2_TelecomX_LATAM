@@ -36,7 +36,7 @@ El proceso consistió en:
 
 🟢 El contenido del notebook está dividido en 4 secciones en total que pueden accederse desde un índice:
 
-![Imagen_indice]()
+![Imagen_indice](https://raw.githubusercontent.com/EuniceGarcia503/Challenge2_TelecomX_LATAM/refs/heads/main/Imagenes_TELECOMX_LATAM/indice%20notebook_readme.png)
 
 🟢 Extracción de datos.
   
