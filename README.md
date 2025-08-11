@@ -56,7 +56,7 @@ El proceso consistió en:
 
 🟢 Informe Final. Que contiende el resumen de hallazgos, el patrón general y la recomendación de uso.
 
-![Imagen informe1]()
+![Imagen informe1](https://raw.githubusercontent.com/EuniceGarcia503/Challenge2_TelecomX_LATAM/refs/heads/main/Imagenes_TELECOMX_LATAM/banner%20de%20informe_README.png)
 
 ![Imagen informe2]()
 
