@@ -58,7 +58,7 @@ El proceso consistió en:
 
 ![Imagen informe1](https://raw.githubusercontent.com/EuniceGarcia503/Challenge2_TelecomX_LATAM/refs/heads/main/Imagenes_TELECOMX_LATAM/banner%20de%20informe_README.png)
 
-![Imagen informe2]()
+![Imagen informe2](https://raw.githubusercontent.com/EuniceGarcia503/Challenge2_TelecomX_LATAM/refs/heads/main/Imagenes_TELECOMX_LATAM/2%20informe_README.png)
 
 ![Imagen informe3]()
 
