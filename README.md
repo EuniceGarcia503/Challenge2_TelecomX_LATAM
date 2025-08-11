@@ -52,7 +52,7 @@ El proceso consistió en:
 
 🟢 Carga y Análisis. Que contiende el Análisis Exploratorio de los Datos (EDA).
 
-![Imagen EDA1]()
+![Imagen EDA1](https://raw.githubusercontent.com/EuniceGarcia503/Challenge2_TelecomX_LATAM/refs/heads/main/Imagenes_TELECOMX_LATAM/secci%C3%B3n%20carga%20y%20an%C3%A1lisis_readme.png)
 
 ![Imagen EDA2]()
 
